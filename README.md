@@ -1,4 +1,4 @@
-# Universal File Converter (Streamlit Cloud Compatible)
+# Universal File Converter
 
 This project provides a robust, easy-to-use file converter web app built with Streamlit and 100% pure Python libraries—**no system dependencies required**. It supports a wide variety of file formats and enables batch, drag-and-drop conversions directly in your browser. **Perfect for quick document, email, spreadsheet, notebook, and image conversions on any device.**
 
