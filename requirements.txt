@@ -4,15 +4,10 @@ python-docx
 openpyxl
 odfpy
 pdfplumber
-PyMuPDF
 pdf2docx
 pdf2image
-pdfminer.six
 pytesseract
 Pillow
-pydub
-moviepy
-py7zr
 nbformat
+mailbox
 markdown
-weasyprint
